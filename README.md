@@ -5,6 +5,7 @@
 - Independent Variable is Salary
 - Dependent Variable is Years of Experience
 
+
 **With the help of Linear Regression Algorithm with accuracy of 89%  model Predicted the results.**
 
 
@@ -13,3 +14,5 @@
 
 
 ![gui](https://user-images.githubusercontent.com/72223057/120932786-d282e880-c714-11eb-8889-d3194b89896d.JPG)
+
+- **Tools Used :** Jupyter Notebook, Tkinter(GUI),VS Code
